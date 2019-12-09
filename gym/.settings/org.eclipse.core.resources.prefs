@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/controller/CoachServlet.java=UTF-8
+encoding//src/controller/EquipmentServlet.java=UTF-8
+encoding//src/controller/MemberServlet.java=UTF-8
+encoding//src/filter/LoginFilter.java=UTF-8
